@@ -1,4 +1,4 @@
-<h1 align="center"> IW Stealer </h1> 
+<h1 align="center"> Epsilon Stealer LEAK </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/ViganW8.jpg"width="420"> </kbd><br><br>
 
 
