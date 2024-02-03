@@ -64,7 +64,7 @@
                                                   
 
 
-- open `Start.bat`
+- open `builder.bat`
 
                                                        🖼️ Pictures
  
