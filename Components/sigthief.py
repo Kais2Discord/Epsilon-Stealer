@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# LICENSE: BSD-3
-# Copyright: Josh Pitts @midnite_runr
+
 
 import sys
 import struct
