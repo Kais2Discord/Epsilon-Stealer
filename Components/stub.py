@@ -1,7 +1,4 @@
-# Python 3.10+
-# Author: Blank-c
-# Github: https://github.com/Blank-c/Blank-Grabber
-# Encoding: UTF-8
+
 
 import base64
 import os
