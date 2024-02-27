@@ -1,4 +1,4 @@
-@echo off
+@echo ofF
 
 title Epsilon Stealer
 rem You can do any color
