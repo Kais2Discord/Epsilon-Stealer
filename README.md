@@ -85,12 +85,12 @@
 
 - Cet outil est uniquement destiné à des fins éducatives. Il est codé pour vous permettre de voir comment vos fichiers sont simplement volés et comment agir. Ne pas utiliser à des fins illégales. Nous ne sommes jamais responsables d'une utilisation illégale. <bold>Educational purpose only!</bold>
 
-                                                      🪪 Created By
-
+                            🪪 Created By
 #
 |*Information:* | *Response:* |
 |--------------|------------ |
 | *Made By :*   |        IW deleted     |
-| *User :*      |iwdeleted |
-| *Server :*   | https://discord.gg/toolfr |
+| *User :*      |iwdeleted. |
+| *Server :*   | https://discord.gg/AD5gSrtGpt |
 
+                                                          
